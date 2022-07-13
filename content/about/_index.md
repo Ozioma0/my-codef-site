@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-07-12T14:23:50+01:00
-draft: true
+draft: false
 ---
 This will not be your average travel blog! We are both student/ extremely budget friendly but i also have tips and tricks to elevate those holidays for us boujee boys and girls. NO HOSTELS!
 
