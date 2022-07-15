@@ -36,6 +36,7 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+
 name = "instagram"
 url = "https://www.instagram.com/?hl=en"
 
