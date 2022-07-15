@@ -37,8 +37,6 @@ enableRobotsTXT = true
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
 
-name = "instagram"
-url = "https://www.instagram.com/?hl=en"
 
 [markup]
   [markup.goldmark]
