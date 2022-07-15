@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Home"
     weight = 1
     contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -36,6 +36,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+name = "instagram"
+url = "https://www.instagram.com/?hl=en"
 
 [markup]
   [markup.goldmark]
